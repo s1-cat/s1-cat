@@ -2,7 +2,7 @@
 <table border="0" align="right" >
   <tr>
     <td>
-<img src="img_and_gifs/cummins.gif"  height="430" width="470" align="right" />    </td>
+<img src="img_and_gifs/cummins.gif"  height="410" width="440" align="right" />    </td>
   </tr>
 </table>
 
