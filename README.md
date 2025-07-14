@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body><input type="text" name="lastname" disabled="disabled" />
 
-<div align="center">
-    <img src="seraqroda.sgv" width="400" height="400" alt="css-in-readme">
-</div>
-</body>
+
 
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd";>
@@ -28,6 +24,12 @@ Here are some ideas to get you started:
       <title>Valid XHTML document</title>
    </head>
    <body>
-      <p>According to this definitions a valid XHTML document will have this structure</p>
+   
+    <input type="text" name="lastname" disabled="disabled" />
+
+<div align="center">
+    <img src="seraqroda.sgv" width="400" height="400" alt="css-in-readme">
+</div>
+       <p>According to this definitions a valid XHTML document will have this structure</p>
    </body>
 </html>
