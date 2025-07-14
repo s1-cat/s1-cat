@@ -22,6 +22,7 @@ Here are some ideas to get you started:
    <head>
       <title>Valid XHTML document</title>
    </head>
+   <html>  <input type="text" name="lastname" disabled="disabled" />	</html>
    <body>
    <del> test para ver	</del>
     <input type="text" name="lastname" disabled="disabled" />
