@@ -25,7 +25,7 @@ Here are some ideas to get you started:
    </head>
    <html>  <input type="text" name="lastname" disabled="disabled" />	</html>
    <body>
-
+<label>	test label </label>
       <marquee>This text will scroll from right to left</marquee>
 
 <marquee direction="up">This text will scroll from bottom to top</marquee>
