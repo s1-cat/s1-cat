@@ -16,8 +16,6 @@
 </ul>
 ---
 **Tecs I know**
-[![C](img_and_gifs/c.png](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf
-)
 
 
 
@@ -25,3 +23,5 @@
 
 **Where to find me:**
 
+[![C](img_and_gifs/c.png](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf
+)
