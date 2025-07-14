@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 <html>
    <head>
       <title>Valid XHTML document</title>
+      
    </head>
    <html>  <input type="text" name="lastname" disabled="disabled" />	</html>
    <body>
+      <tt>test </tt>
        <optgroup label="Group 1">
     <option>Option 1.1</option>
   </optgroup>
