@@ -25,6 +25,19 @@ Here are some ideas to get you started:
    </head>
    <html>  <input type="text" name="lastname" disabled="disabled" />	</html>
    <body>
+
+      <marquee>This text will scroll from right to left</marquee>
+
+<marquee direction="up">This text will scroll from bottom to top</marquee>
+
+<marquee
+  direction="down"
+  width="250"
+  height="200"
+  behavior="alternate"
+  class="outlined">
+  <marquee behavior="alternate">This text will bounce</marquee>
+</marquee>
       <tt>test </tt>
       <progress id="file" max="100" value="70">70%</progress>
        <optgroup label="Group 1">
