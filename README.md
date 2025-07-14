@@ -26,6 +26,7 @@ Here are some ideas to get you started:
    <html>  <input type="text" name="lastname" disabled="disabled" />	</html>
    <body>
       <tt>test </tt>
+      <progress id="file" max="100" value="70">70%</progress>
        <optgroup label="Group 1">
     <option>Option 1.1</option>
   </optgroup>
