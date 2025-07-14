@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-<html>
-   <head>
-      <title>Valid XHTML document</title>
-      
-   </head>
    <html>  <input type="text" name="lastname" disabled="disabled" />	</html>
    <body>
 <label>	test label </label>
@@ -53,4 +46,4 @@ Here are some ideas to get you started:
 <p style="color: blue;">This text is blue.</p>
        <p bgcolor='red'>According to this definitions a valid XHTML document will have this structure</p>
    </body>
-</html>
+
