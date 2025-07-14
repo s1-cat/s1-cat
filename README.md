@@ -54,6 +54,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXCgBwE%3D"><img src="img_and_gifs/tinder-redesign-graphics_dezeen_sq-1.png" height="40" width="40" align="left"  /></a>
 <br> 
 
-<br>**I Speak:** <tt> Portuguese Native</tt> <tt> English Fluently</tt> <tt> Mandarin Basic</tt>
+<br>**I Speak:** <tt> Portuguese Native</tt> <tt> English Fluently</tt> <br><tt> Mandarin Basic</tt>
 
 
