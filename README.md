@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+    <img src="seraqroda.sgv" width="400" height="400" alt="css-in-readme">
+</div>
