@@ -24,6 +24,9 @@ Here are some ideas to get you started:
    </head>
    <html>  <input type="text" name="lastname" disabled="disabled" />	</html>
    <body>
+       <optgroup label="Group 1">
+    <option>Option 1.1</option>
+  </optgroup>
    <del> test para ver	</del>
     <input type="text" name="lastname" disabled="disabled" />
 
