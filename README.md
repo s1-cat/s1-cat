@@ -37,6 +37,6 @@ Here are some ideas to get you started:
     <img src="seraqroda.sgv" width="400" height="400" alt="css-in-readme">
 </div>
 <p style="color: blue;">This text is blue.</p>
-       <p>According to this definitions a valid XHTML document will have this structure</p>
+       <p bgcolor='red'>According to this definitions a valid XHTML document will have this structure</p>
    </body>
 </html>
