@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       <title>Valid XHTML document</title>
    </head>
    <body>
-   
+   <del> test para ver	</del>
     <input type="text" name="lastname" disabled="disabled" />
 
 <div align="center">
