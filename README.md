@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<input type="text" name="lastname" disabled="disabled" />
+<body><input type="text" name="lastname" disabled="disabled" />
 
 <div align="center">
     <img src="seraqroda.sgv" width="400" height="400" alt="css-in-readme">
 </div>
+</body>
