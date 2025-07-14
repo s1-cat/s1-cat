@@ -29,6 +29,7 @@ Here are some ideas to get you started:
       <progress id="file" max="100" value="70">70%</progress>
        <optgroup label="Group 1">
     <option>Option 1.1</option>
+          <hr />
   </optgroup>
    <del> test para ver	</del>
     <input type="text" name="lastname" disabled="disabled" />
