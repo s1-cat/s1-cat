@@ -1,3 +1,3 @@
-## My name is so_mais_um <tt>aka Erick </tt>👋
+## I am so_mais_um <tt>aka Erick </tt>🐱
 
 
